@@ -68,7 +68,7 @@
     "isomorphic-style-loader": "^4.0.0",
     "mime-types": "^2.1.17",
     "name-all-modules-plugin": "^1.0.1",
-    "node-sass": "^3.13.0",
+    "node-sass": "^4.13.1",
     "now-client": "^1.1.1",
     "offline-plugin": "^4.8.4",
     "path-to-regexp": "^1.7.0",
